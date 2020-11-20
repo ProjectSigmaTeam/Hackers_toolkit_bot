@@ -1,0 +1,5 @@
+telepot
+requests
+folium
+phonenumbers
+shutil
