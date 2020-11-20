@@ -8,7 +8,6 @@ you will need to change all APIs and tokens before running
 it won't work without editing them
 
 
-
 # disclaimer
 This bot is for pentesting purposes ONLY , I am not responsible for any illegal use of it
 * scanning systems without authorization is illegal *
