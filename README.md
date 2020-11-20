@@ -28,17 +28,10 @@ This bot is for pentesting purposes ONLY , I am not responsible for any illegal 
 
 - scanning systems without authorization is illegal -
 
-
-* scanning systems without authorization is illegal
-
 **************************************
 
-<<<<<<< HEAD
 developer : Khalil Abbas - Syria
-=======
-developer : Khalil Abbas
 
->>>>>>> f235f8b7e1043f4fa4e95c5ae3182ad25ba64d58
 contact : https://t.me/khalil_abbas
 
 **************************************
